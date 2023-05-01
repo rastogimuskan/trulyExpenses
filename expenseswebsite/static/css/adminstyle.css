@@ -1,0 +1,16 @@
+#header {
+  background: rgb(61, 88, 106);
+  color: #ffff;
+}
+
+#branding h1 {
+  color: #ffff;
+}
+
+div.breadcrumbs {
+  background: rgb(48, 135, 152);
+  padding: 10px 40px;
+  border: none;
+  color: #ffff;
+  text-align: left;
+}
